@@ -1,7 +1,7 @@
 # design-mockup-portfolio
 **a responsive webpage**\
 这是用bootstrap制作的一个响应式网页\
-    主要有三个状态：
+    主要有三个状态：\
     1. 电脑\
     2. pad\
     3. 手机\
